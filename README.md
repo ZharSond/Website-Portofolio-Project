@@ -5,26 +5,28 @@
 Repositori ini berisi **website portofolio sederhana** yang aku buat dengan satu tujuan utama: **menguasai fondasi _web development_ dari nol**!
 
 #### 🎯 Fokus Utama
-
-Project ini sengaja dibuat **tanpa _framework_ atau _library_** apa pun. Tujuannya adalah benar-benar memahami dan menerapkan:
+Project ini dibuat dengan *sedikit _framework_ atau _library_**, dengan tujuan untuk benar benar memahami dan menerapkan:
 
 1. **HTML Native Murni:** Fokus pada struktur dokumen yang benar dan penggunaan elemen HTML5 yang semantik.
 2. **CSS Native Murni:** Menerapkan _styling_ dari awal, termasuk layout dasar (misalnya dengan Flexbox atau Grid sederhana) dan memastikan tampilan tetap responsif di berbagai perangkat.
-3. **JavaScript Sederhana:** Fokus memahami dasar dasar javascript
+3. **JavaScrip:** Fokus menerapkan beberapa fungsi JS sederhana yang dapat membuat website lebih dinamis
+4. **jQuery:** Membuat bagian Slider dalam halaman Project, agar terlihat lebih dinamis. 
 
-Ini adalah bukti _skill_ dasarku dalam mengatur struktur konten dan tampilan tanpa bantuan alat otomatis, alias **belajar dari akar**! 🌱
+#### 💡 Dari Tutorial ke Portofolio (Proses Belajar)
+Sejujurnya, beberapa styling dasar dalam project ini tidak 100% murni ideku. Aku mengambil inspirasi, dan mengikuti struktur dasar salah satu tutorial YouTube dari channel youtube Sandhika Galih WPU tentang website penjualan kopi.
+
+Namun, aku kemudian memodifikasi dan mengkustomisasi tampilannya secara menyeluruh untuk diubah menjadi website portofolio sederhana ini. Aku mengasah skill dasarku dalam mengatur struktur konten, adaptasi kode yang ada, dan membuat tmapilan tanpa batuan alat otomatis. 
 
 #### 🛠️ Dibangun Dengan (Tech Stack)
 
 - **HTML5**
 - **Simple CSS**
+- **jQuery**
 - **JavaSript Sederhana**
-
-_(Itu saja! Sederhana, tapi efektif untuk belajar dasar.)_
 
 #### 💡 Fitur Khas
 
-Walaupun sederhana, portofolio ini mencakup bagian-bagian standar yang harus ada:
+Dalam Website Portofolio ini, aku membangun bagian bagian halaman standar yang menurutku harus ada, seperti:
 
 - **Halaman _Profile_:** Cerita singkat tentang aku.
 - **Bagian Pendidikan:** Menampilkan jenjang pendidikan yang sedang aku tempuh
@@ -36,6 +38,5 @@ Walaupun sederhana, portofolio ini mencakup bagian-bagian standar yang harus ada
 #### 📣 Catatan Tambahan
 
 - Repositori ini adalah bagian dari perjalanan belajarku. Tujuannya bukan untuk membuat _website_ tercanggih, melainkan untuk memastikan **dasar-dasar _coding_ web-ku kuat.**
-- _Pull Requests_ atau saran untuk perbaikan struktur/semantik HTML dan CSS sangat diterima!
 
 _Terima kasih sudah mampir dan melihat proses belajarku!_ ✨
